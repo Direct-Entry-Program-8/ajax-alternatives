@@ -1,0 +1,21 @@
+{
+  "name": "ajax-alternatives",
+  "version": "1.0.0",
+  "source": [
+    "index.html"
+  ],
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.14",
+    "buffer": "^6.0.3",
+    "parcel": "^2.6.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "jquery": "^3.6.0"
+  }
+}
